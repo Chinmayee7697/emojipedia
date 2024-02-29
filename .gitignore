@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# Compiled binary addons
+node_modules/
+build/
+dist/
+
+# Logs
+logs
+*.log
+
+# Output of 'npm pack'
+*.tgz
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

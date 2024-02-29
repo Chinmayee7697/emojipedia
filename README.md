@@ -2,6 +2,8 @@
 
 Explore the emojis and their meanings with this simple React application.
 
+Deployment - [https://my-repo-sooty-mu.vercel.app/](https://my-repo-sooty-mu.vercel.app/)
+
 ## Features
 
 - View emojis and their meanings.
